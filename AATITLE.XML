@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="file:/V:/AcctsG/10878/CSS/10878.css" alternate="no"?><?conv mccps;title?><section xmlns="http://www.w3.org/1999/xhtml"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         id="x85D3CE6D417D"
+         class="titlepage"
+         data-type="titlepage"
+         data-pubmap="level1"
+         xsi:schemaLocation="http://www.w3.org/1999/xhtml file:/V:/FuturePub/SCHEMA/HTMLBookMCC/htmlbookMCC.xsd">
+   <header>
+	     <h1 id="x85D3CE6D41A7"/>
+	     <p id="x85D3CE6D41B3" data-type="subtitle"><?conv sz;18q;18q?>Code of Ordinances<?quad qc?><br/>
+         <?conv sz;18q?>Gwinnett County, Georgia</p>
+   </header>
+
+   <p id="x85D3CE6D41CB" class="center">__________</p>
+
+   <p id="x85D3CE6D41DB" class="center">Published in 2016 by Order of the Board of Commissioners</p>
+
+   <p id="x85D3CE6D41EB" class="center">__________</p>
+
+   <p id="xD61FB0AED00" class="left"/>
+
+   <p id="x85D3CE6D4213" class="left"/>
+
+   <figure id="x85D3CE6D4226" class="center">
+ <img id="x85D3CE6D4230" class="center" src="./images/Municode_Title_Page_Logo.png"  width="400" height="131" />  
+   </figure>
+
+   <p id="x85D3CE6D4245" class="pickup">
+<?xpp pick;Municode_Title_Page_Logo;none;bound;cct/def/def/def?>
+<?xpp PICK;Municode_Title_Page_Logo;full;comptd;block;cct;def;fs;no;1;0;0;no;0;cw;no;def;def?>
+<?xpp GRAPH;Municode_Title_Page_Logo.png;25p;comptd;center;top;0;0;cw;normal;0;0;0;edge;edge;width;prior?>
+</p>
+
+</section>
